@@ -2,6 +2,9 @@
 
 This is a new easy way to explore PubMed repository.
 
+# Demo Application
+[Access a running demo of the project hosted on Google Cloud](http://35.209.74.188:8501/)
+
 ## Screenshots
 
 Initial screen:
